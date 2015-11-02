@@ -1,0 +1,40 @@
+c:\users\neil guilfoyle\documents\visual studio 2010\Projects\Assignment2C_sharp\Assignment2C_sharp\Assignment2C_sharp\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\neil guilfoyle\documents\visual studio 2010\Projects\Assignment2C_sharp\Assignment2C_sharp\Assignment2C_sharp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\neil guilfoyle\documents\visual studio 2010\Projects\Assignment2C_sharp\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\player.xnb
+c:\users\neil guilfoyle\documents\visual studio 2010\Projects\Assignment2C_sharp\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Assignment2C_sharp.exe
+c:\users\neil guilfoyle\documents\visual studio 2010\Projects\Assignment2C_sharp\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Assignment2C_sharp.pdb
+c:\users\neil guilfoyle\documents\visual studio 2010\Projects\Assignment2C_sharp\Assignment2C_sharp\Assignment2C_sharp\obj\x86\Debug\Assignment2C_sharp.exe
+c:\users\neil guilfoyle\documents\visual studio 2010\Projects\Assignment2C_sharp\Assignment2C_sharp\Assignment2C_sharp\obj\x86\Debug\Assignment2C_sharp.pdb
+c:\users\neil guilfoyle\documents\visual studio 2010\Projects\Assignment2C_sharp\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Neil Guilfoyle\Documents\Visual Studio 2010\Projects\Assignment2C_sharp\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\font.xnb
+C:\Users\Neil Guilfoyle\Documents\Visual Studio 2010\Projects\Assignment2C_sharp\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\enemy.xnb
+C:\Users\Neil Guilfoyle\Documents\Visual Studio 2010\Projects\Assignment2C_sharp\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\GameOver.xnb
+C:\Users\Neil Guilfoyle\documents\visual studio 2010\Projects\Assignment2C_sharp\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\space.xnb
+C:\Users\Neil Guilfoyle\documents\visual studio 2010\Projects\Assignment2C_sharp\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\playerAnimated.xnb
+C:\Users\Neil Guilfoyle\documents\visual studio 2010\Projects\Assignment2C_sharp\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\spaceAni.xnb
+C:\Users\Neil Guilfoyle\documents\visual studio 2010\Projects\Assignment2C_sharp\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\comet.xnb
+C:\Users\Neil Guilfoyle\documents\visual studio 2010\Projects\Assignment2C_sharp\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\barBG.xnb
+C:\Users\Neil Guilfoyle\documents\visual studio 2010\Projects\Assignment2C_sharp\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\barLT.xnb
+C:\Users\Neil Guilfoyle\documents\visual studio 2010\Projects\Assignment2C_sharp\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\Menu.xnb
+C:\Users\Neil Guilfoyle\documents\visual studio 2010\Projects\Assignment2C_sharp\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\song.xnb
+C:\Users\Neil Guilfoyle\documents\visual studio 2010\Projects\Assignment2C_sharp\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\song.wma
+C:\Users\neil\Desktop\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\font.xnb
+C:\Users\neil\Desktop\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\enemy.xnb
+C:\Users\neil\Desktop\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\player.xnb
+C:\Users\neil\Desktop\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\space.xnb
+C:\Users\neil\Desktop\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\bullet.xnb
+C:\Users\neil\Desktop\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\playerAnimated.xnb
+C:\Users\neil\Desktop\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\spaceAni.xnb
+C:\Users\neil\Desktop\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\comet.xnb
+C:\Users\neil\Desktop\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\barBG.xnb
+C:\Users\neil\Desktop\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\barLT.xnb
+C:\Users\neil\Desktop\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\GameOver.xnb
+C:\Users\neil\Desktop\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\Menu.xnb
+C:\Users\neil\Desktop\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\song.xnb
+C:\Users\neil\Desktop\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Content\song.wma
+C:\Users\neil\Desktop\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Assignment2C_sharp.exe
+C:\Users\neil\Desktop\Assignment2C_sharp\Assignment2C_sharp\bin\x86\Debug\Assignment2C_sharp.pdb
+C:\Users\neil\Desktop\Assignment2C_sharp\Assignment2C_sharp\obj\x86\Debug\Assignment2C_sharp.csprojResolveAssemblyReference.cache
+C:\Users\neil\Desktop\Assignment2C_sharp\Assignment2C_sharp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\neil\Desktop\Assignment2C_sharp\Assignment2C_sharp\obj\x86\Debug\Assignment2C_sharp.exe
+C:\Users\neil\Desktop\Assignment2C_sharp\Assignment2C_sharp\obj\x86\Debug\Assignment2C_sharp.pdb
